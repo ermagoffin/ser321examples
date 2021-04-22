@@ -29,3 +29,5 @@ This will generate the py files for proto and grpc, sorry for the two separate c
 - gradle runClientPython
 
 - `host`, `port` and `message` are optional arguments for the program.e
+
+A video walkthrough of this example created by a UGTA in Spring 2021 can be found here: https://youtu.be/Pz-WnPCTfZA 
